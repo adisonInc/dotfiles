@@ -1,0 +1,7 @@
+*.o
+src/dwm/dwm
+src/slstatus/slstatus
+config/**/cache/
+config/**/.cache/
+config/**/wallpaper_effects/.wallpaper_modified
+.DS_Store
